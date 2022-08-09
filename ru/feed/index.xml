@@ -12,7 +12,7 @@
 	<atom:link href="https://rodnio.github.io/ru/feed/" rel="self" type="application/rss+xml" />
 	<link href="">https://rodnio.github.io/ru</link>
 	<description>alexander.osinsky@skoltech.ru</description>
-	<lastbuilddate>Sun, 07 Aug 2022 14:04:46 +0000</lastbuilddate>
+	<lastbuilddate>Tue, 09 Aug 2022 14:50:00 +0000</lastbuilddate>
 	<language>ru-RU</language>
 	<sy:updateperiod>
 	hourly	</sy:updateperiod>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>15 января 2022</title>
-		<link href="">https://rodnio.github.io/ru/%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82-%d0%bc%d0%b8%d1%80/</link>
+		<link href="">https://rodnio.github.io/ru/15jan2022/</link>
 		
 		<dc:creator><![CDATA[rodnio]]></dc:creator>
 		<pubdate>Sat, 23 Jul 2022 10:55:21 +0000</pubdate>
